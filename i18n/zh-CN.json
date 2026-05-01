@@ -44,5 +44,15 @@
   "metadata.modified": "修改时间:",
   "metadata.unknown": "未知",
   "app.promptCustomLayout": "输入此自定义布局的名称：",
-  "settings.close": "关闭设置"
+  "settings.close": "关闭设置",
+  "layout.save": "保存布局",
+  "layout.saveAs": "另存为...",
+  "layout.rename": "重命名布局",
+  "layout.delete": "删除布局",
+  "layout.addCell": "添加单元格",
+  "layout.removeCell": "删除选中的单元格",
+  "layout.confirmDelete": "您确定要删除此布局吗？",
+  "layout.layoutName": "布局名称",
+  "app.confirm": "确认",
+  "app.cancel": "取消"
 }

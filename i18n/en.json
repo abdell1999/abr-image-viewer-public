@@ -44,5 +44,15 @@
   "metadata.modified": "Modified:",
   "metadata.unknown": "Unknown",
   "app.promptCustomLayout": "Enter a name for this custom layout:",
-  "settings.close": "Close Settings"
+  "settings.close": "Close Settings",
+  "layout.save": "Save Layout",
+  "layout.saveAs": "Save As...",
+  "layout.rename": "Rename Layout",
+  "layout.delete": "Delete Layout",
+  "layout.addCell": "Add Cell",
+  "layout.removeCell": "Remove Active Cell",
+  "layout.confirmDelete": "Are you sure you want to delete this layout?",
+  "layout.layoutName": "Layout Name",
+  "app.confirm": "Confirm",
+  "app.cancel": "Cancel"
 }

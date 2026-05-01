@@ -44,5 +44,15 @@
   "metadata.modified": "Modificado:",
   "metadata.unknown": "Desconocido",
   "app.promptCustomLayout": "Ingresa un nombre para este diseño personalizado:",
-  "settings.close": "Cerrar ajustes"
+  "settings.close": "Cerrar ajustes",
+  "layout.save": "Guardar diseño",
+  "layout.saveAs": "Guardar como...",
+  "layout.rename": "Renombrar diseño",
+  "layout.delete": "Eliminar diseño",
+  "layout.addCell": "Agregar celda",
+  "layout.removeCell": "Eliminar celda seleccionada",
+  "layout.confirmDelete": "¿Estás seguro de que deseas eliminar este diseño?",
+  "layout.layoutName": "Nombre del diseño",
+  "app.confirm": "Confirmar",
+  "app.cancel": "Cancelar"
 }
