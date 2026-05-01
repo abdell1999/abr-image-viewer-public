@@ -63,6 +63,15 @@
   "layout.resize": "调整大小",
   "layout.confirmDelete": "您确定要删除此布局吗？",
   "layout.layoutName": "布局名称",
+  "layout.builtin.1x2": "1x2 水平",
+  "layout.builtin.2x1": "2x1 垂直",
+  "layout.builtin.2x2": "2x2 网格",
+  "layout.builtin.3x2": "3x2 网格",
+  "layout.builtin.3x3": "3x3 网格",
+  "layout.builtin.1plus2": "1 大 + 2 小 (右侧)",
+  "layout.builtin.4x4": "4x4 网格",
   "app.confirm": "确认",
-  "app.cancel": "取消"
+  "app.cancel": "取消",
+  "app.copy": "副本",
+  "layout.create": "从头开始创建布局"
 }

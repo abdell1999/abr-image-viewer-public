@@ -63,6 +63,15 @@
   "layout.resize": "Resize",
   "layout.confirmDelete": "Are you sure you want to delete this layout?",
   "layout.layoutName": "Layout Name",
+  "layout.builtin.1x2": "1x2 Horizontal",
+  "layout.builtin.2x1": "2x1 Vertical",
+  "layout.builtin.2x2": "2x2 Grid",
+  "layout.builtin.3x2": "3x2 Grid",
+  "layout.builtin.3x3": "3x3 Grid",
+  "layout.builtin.1plus2": "1 Large + 2 Small Right",
+  "layout.builtin.4x4": "4x4 Grid",
   "app.confirm": "Confirm",
-  "app.cancel": "Cancel"
+  "app.cancel": "Cancel",
+  "app.copy": "Copy",
+  "layout.create": "Create layout from scratch"
 }
