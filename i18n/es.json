@@ -3,6 +3,7 @@
   "file.open": "Abrir archivo",
   "folder.open": "Abrir carpeta",
   "file.closeAll": "Cerrar todas",
+  "file.remove": "Eliminar imagen",
   "viewer.zoomIn": "Ampliar",
   "viewer.zoomOut": "Reducir",
   "viewer.reset": "Restablecer vista",

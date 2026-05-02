@@ -3,6 +3,7 @@
   "file.open": "打开文件",
   "folder.open": "打开文件夹",
   "file.closeAll": "全部关闭",
+  "file.remove": "删除图片",
   "viewer.zoomIn": "放大",
   "viewer.zoomOut": "缩小",
   "viewer.reset": "重置视图",
