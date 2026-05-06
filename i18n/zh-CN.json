@@ -11,6 +11,7 @@
   "layout.randomFill": "随机填充",
   "layout.allowDuplicates": "允许重复",
   "layout.clearAssignments": "清除马赛克",
+  "layout.clearCell": "清空单元格",
   "layout.shuffle": "随机排列",
   "layout.singleView": "单图视图",
   "layout.toggleToolbar": "切换工具栏",

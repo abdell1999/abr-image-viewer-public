@@ -11,6 +11,7 @@
   "layout.randomFill": "Llenado Aleatorio",
   "layout.allowDuplicates": "Permitir Duplicados",
   "layout.clearAssignments": "Limpiar Mosaico",
+  "layout.clearCell": "Vaciar celda",
   "layout.shuffle": "Mezclar Imágenes",
   "layout.singleView": "Vista única",
   "layout.toggleToolbar": "Alternar barra de herramientas",
