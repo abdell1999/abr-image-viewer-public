@@ -19,6 +19,7 @@
   "layout.toggleGallery": "Toggle Gallery",
   "nav.next": "Next Image",
   "nav.prev": "Previous Image",
+  "view.fullscreen": "Toggle Fullscreen",
   "view.fitToScreen": "Fit to Screen",
   "view.fitToWidth": "Fit to Width",
   "view.actualSize": "Actual Size",
