@@ -59,6 +59,8 @@
   "metadata.type": "Tipo:",
   "metadata.size": "Tamaño:",
   "metadata.modified": "Modificado:",
+  "metadata.dimensions": "Dimensiones:",
+  "metadata.exif": "Datos EXIF",
   "metadata.unknown": "Desconocido",
   "app.promptCustomLayout": "Ingresa un nombre para este diseño personalizado:",
   "settings.close": "Cerrar ajustes",
@@ -82,5 +84,7 @@
   "app.confirm": "Confirmar",
   "app.cancel": "Cancelar",
   "app.copy": "Copia",
-  "layout.create": "Crear diseño desde cero"
+  "layout.create": "Crear diseño desde cero",
+  "common.restoreAccess": "Restaurar Acceso",
+  "common.restoreAccessMsg": "Se requiere permiso para acceder a las imágenes locales persistidas."
 }

@@ -59,6 +59,8 @@
   "metadata.type": "Type:",
   "metadata.size": "Size:",
   "metadata.modified": "Modified:",
+  "metadata.dimensions": "Dimensions:",
+  "metadata.exif": "EXIF Data",
   "metadata.unknown": "Unknown",
   "app.promptCustomLayout": "Enter a name for this custom layout:",
   "settings.close": "Close Settings",
@@ -82,5 +84,7 @@
   "app.confirm": "Confirm",
   "app.cancel": "Cancel",
   "app.copy": "Copy",
-  "layout.create": "Create layout from scratch"
+  "layout.create": "Create layout from scratch",
+  "common.restoreAccess": "Restore Access",
+  "common.restoreAccessMsg": "Permission is required to access persisted local images."
 }

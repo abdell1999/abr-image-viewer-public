@@ -59,6 +59,8 @@
   "metadata.type": "类型:",
   "metadata.size": "大小:",
   "metadata.modified": "修改时间:",
+  "metadata.dimensions": "尺寸:",
+  "metadata.exif": "EXIF 信息",
   "metadata.unknown": "未知",
   "app.promptCustomLayout": "输入此自定义布局的名称：",
   "settings.close": "关闭设置",
