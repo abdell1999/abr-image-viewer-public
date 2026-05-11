@@ -84,5 +84,7 @@
   "app.confirm": "确认",
   "app.cancel": "取消",
   "app.copy": "副本",
-  "layout.create": "从头开始创建布局"
+  "layout.create": "从头开始创建布局",
+  "settings.autoplayInterval": "自动播放间隔（秒）",
+  "nav.autoplay": "切换自动播放"
 }

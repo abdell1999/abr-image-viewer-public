@@ -86,5 +86,7 @@
   "app.copy": "Copy",
   "layout.create": "Create layout from scratch",
   "common.restoreAccess": "Restore Access",
-  "common.restoreAccessMsg": "Permission is required to access persisted local images."
+  "common.restoreAccessMsg": "Permission is required to access persisted local images.",
+  "settings.autoplayInterval": "Autoplay interval (seconds)",
+  "nav.autoplay": "Toggle Autoplay"
 }

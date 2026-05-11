@@ -86,5 +86,7 @@
   "app.copy": "Copia",
   "layout.create": "Crear diseño desde cero",
   "common.restoreAccess": "Restaurar Acceso",
-  "common.restoreAccessMsg": "Se requiere permiso para acceder a las imágenes locales persistidas."
+  "common.restoreAccessMsg": "Se requiere permiso para acceder a las imágenes locales persistidas.",
+  "settings.autoplayInterval": "Intervalo de autoreproducción (segundos)",
+  "nav.autoplay": "Alternar Autoreproducción"
 }
