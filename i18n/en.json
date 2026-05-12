@@ -88,5 +88,8 @@
   "common.restoreAccess": "Restore Access",
   "common.restoreAccessMsg": "Permission is required to access persisted local images.",
   "settings.autoplayInterval": "Autoplay interval (seconds)",
-  "nav.autoplay": "Toggle Autoplay"
+  "nav.autoplay": "Toggle Autoplay",
+  "settings.autoplayMode": "Autoplay mode (Mosaic)",
+  "settings.autoplayModeGlobal": "Global (Batch)",
+  "settings.autoplayModeCell": "Selected Cell"
 }

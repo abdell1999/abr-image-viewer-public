@@ -88,5 +88,8 @@
   "common.restoreAccess": "Restaurar Acceso",
   "common.restoreAccessMsg": "Se requiere permiso para acceder a las imágenes locales persistidas.",
   "settings.autoplayInterval": "Intervalo de autoreproducción (segundos)",
-  "nav.autoplay": "Alternar Autoreproducción"
+  "nav.autoplay": "Alternar Autoreproducción",
+  "settings.autoplayMode": "Modo de autoreproducción (Mosaico)",
+  "settings.autoplayModeGlobal": "Global (Lote)",
+  "settings.autoplayModeCell": "Celda Seleccionada"
 }

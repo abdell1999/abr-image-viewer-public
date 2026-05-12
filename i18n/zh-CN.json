@@ -86,5 +86,8 @@
   "app.copy": "副本",
   "layout.create": "从头开始创建布局",
   "settings.autoplayInterval": "自动播放间隔（秒）",
-  "nav.autoplay": "切换自动播放"
+  "nav.autoplay": "切换自动播放",
+  "settings.autoplayMode": "自动播放模式 (马赛克)",
+  "settings.autoplayModeGlobal": "全局 (批量)",
+  "settings.autoplayModeCell": "所选单元格"
 }
