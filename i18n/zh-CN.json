@@ -46,6 +46,7 @@
   "settings.galleryBottom": "底部滑块",
   "settings.mosaicOptions": "马赛克选项",
   "settings.autoFillMosaic": "自动填充空单元格",
+  "settings.privacy": "隐私",
   "settings.hotkeys": "快捷键",
   "settings.resetDefaults": "恢复默认设置",
   "settings.pressKeys": "按下按键... (Esc 取消)",
@@ -89,5 +90,8 @@
   "nav.autoplay": "切换自动播放",
   "settings.autoplayMode": "自动播放模式 (马赛克)",
   "settings.autoplayModeGlobal": "全局 (批量)",
-  "settings.autoplayModeCell": "所选单元格"
+  "settings.autoplayModeCell": "所选单元格",
+  "settings.incognitoMode": "无痕模式",
+  "settings.incognitoDesc": "会话结束后不保存图像或缩略图。",
+  "app.incognitoActive": "无痕模式已启用"
 }

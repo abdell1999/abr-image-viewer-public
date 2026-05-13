@@ -46,6 +46,7 @@
   "settings.galleryBottom": "Barra inferior",
   "settings.mosaicOptions": "Opciones de Mosaico",
   "settings.autoFillMosaic": "Llenar celdas automáticamente",
+  "settings.privacy": "Privacidad",
   "settings.hotkeys": "Atajos de teclado",
   "settings.resetDefaults": "Restablecer valores por defecto",
   "settings.pressKeys": "Presiona las teclas... (Esc para cancelar)",
@@ -91,5 +92,8 @@
   "nav.autoplay": "Alternar Autoreproducción",
   "settings.autoplayMode": "Modo de autoreproducción (Mosaico)",
   "settings.autoplayModeGlobal": "Global (Lote)",
-  "settings.autoplayModeCell": "Celda Seleccionada"
+  "settings.autoplayModeCell": "Celda Seleccionada",
+  "settings.incognitoMode": "Modo Incógnito",
+  "settings.incognitoDesc": "No guardar imágenes o miniaturas entre sesiones.",
+  "app.incognitoActive": "Modo incógnito activo"
 }

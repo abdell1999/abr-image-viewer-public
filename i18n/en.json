@@ -46,6 +46,7 @@
   "settings.galleryBottom": "Bottom Slider",
   "settings.mosaicOptions": "Mosaic Options",
   "settings.autoFillMosaic": "Auto-fill empty cells",
+  "settings.privacy": "Privacy",
   "settings.hotkeys": "Hotkeys",
   "settings.resetDefaults": "Reset Defaults",
   "settings.pressKeys": "Press keys... (Esc to cancel)",
@@ -91,5 +92,8 @@
   "nav.autoplay": "Toggle Autoplay",
   "settings.autoplayMode": "Autoplay mode (Mosaic)",
   "settings.autoplayModeGlobal": "Global (Batch)",
-  "settings.autoplayModeCell": "Selected Cell"
+  "settings.autoplayModeCell": "Selected Cell",
+  "settings.incognitoMode": "Incognito Mode",
+  "settings.incognitoDesc": "Don't save images or thumbnails between sessions.",
+  "app.incognitoActive": "Incognito mode active"
 }
