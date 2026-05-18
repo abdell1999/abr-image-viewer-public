@@ -26,6 +26,7 @@
   "view.rotateRight": "向右旋转",
   "gallery.show": "显示图库",
   "gallery.hide": "隐藏图库",
+  "gallery.empty": "图库中没有图片",
   "viewer.emptyState": "未选择图片",
   "metadata.toggle": "切换元数据信息",
   "viewer.dropImage": "拖拽图片至此",

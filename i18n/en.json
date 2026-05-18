@@ -26,6 +26,7 @@
   "view.rotateRight": "Rotate Right",
   "gallery.show": "Show Gallery",
   "gallery.hide": "Hide Gallery",
+  "gallery.empty": "No images in gallery",
   "viewer.emptyState": "No image selected",
   "metadata.toggle": "Toggle Metadata Info",
   "viewer.dropImage": "Drop image here",
