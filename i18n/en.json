@@ -85,6 +85,7 @@
   "layout.layoutName": "Layout Name",
   "layout.builtin.1x2": "1x2 Horizontal",
   "layout.builtin.2x1": "2x1 Vertical",
+  "layout.builtin.3x1": "3x1 Horizontal",
   "layout.builtin.2x2": "2x2 Grid",
   "layout.builtin.3x2": "3x2 Grid",
   "layout.builtin.3x3": "3x3 Grid",
@@ -103,5 +104,12 @@
   "settings.autoplayModeCell": "Selected Cell",
   "settings.incognitoMode": "Incognito Mode",
   "settings.incognitoDesc": "Don't save images or thumbnails between sessions.",
-  "app.incognitoActive": "Incognito mode active"
+  "app.incognitoActive": "Incognito mode active",
+  "mosaic.prevPage": "Previous Mosaic Page",
+  "mosaic.nextPage": "Next Mosaic Page",
+  "gallery.locate": "Locate in Gallery",
+  "gallery.tabAll": "All",
+  "gallery.tabFavorites": "Favorites",
+  "gallery.noFavorites": "No favorite images yet",
+  "image.toggleFavorite": "Toggle Favorite"
 }
